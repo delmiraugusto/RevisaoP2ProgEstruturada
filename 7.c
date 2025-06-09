@@ -1,7 +1,6 @@
 /*Escreva uma subrotina que aumente o salário de todos os funcionários de um vetor em 10%.
 Funcionario com os campos: nome (string), cargo (string), salario (float)*/
 
-
 #include <stdio.h>
 
 typedef struct {
