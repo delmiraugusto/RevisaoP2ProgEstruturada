@@ -1,0 +1,72 @@
+seguem questoes nivel prova.
+todas estas poderiam ou ate ja estiveram em provas antigas.
+mas concerteza nao estarao na prova de vc.
+
+01. Escreva uma função que receba um Aluno e retorne sua média.
+Aluno com os campos: nome (string), matrícula (int), três notas (float).
+
+02. Escreva uma subrotina que receba um vetor de Aluno e imprima o nome do aluno com a maior média.
+Aluno com os campos: nome (string), matrícula (int), três notas (float).
+
+03. Escreva uma função que receba um Livro e retorne 1 se o ano for superior a 2000, ou 0 caso contrário.
+Livro com os campos: título (string), autor (string), ano (int).
+
+04. Escreva uma função que receba uma pessoa e retorne o seu IMC. 
+Pessoa com os campos: nome (string), idade (int), peso (float), altura (float).
+
+05. Escreva uma subrotina que receba um vetor de pessoas e imprima os nomes daqueles com IMC acima de 30.
+Pessoa com os campos: nome (string), idade (int), peso (float), altura (float).
+
+06. Escreva uma função que receba um funcionário e um percentual de aumento, e retorne o novo salário.
+Funcionario com os campos: nome (string), cargo (string), salario (float).
+
+07. Escreva uma subrotina que aumente o salário de todos os funcionários de um vetor em 10%.
+Funcionario com os campos: nome (string), cargo (string), salario (float).
+
+08. Escreva uma função que retorne o funcionário com maior salário entre dois recebidos.
+Funcionario com os campos: nome (string), cargo (string), salario (float).
+
+09. Escreva uma função que calcule a média salarial de um vetor de funcionários.
+Funcionario com os campos: nome (string), cargo (string), salario (float).
+
+10. Escreva uma função que receba um número inteiro e retorne 1 se ele for primo, ou 0 caso contrário.
+
+11. Escreva uma subrotina que receba um vetor de inteiros e o seu tamanho, e imprima todos os números pares.
+
+12. Escreva uma função que receba um vetor de inteiros e o seu tamanho, e retorne a média dos valores.
+
+13. Escreva uma função que receba um número inteiro e retorne a soma dos seus dígitos.
+
+14. Escreva uma função que receba um número inteiro e retorne 1 se ele for palíndromo (ex: 121, 1331), ou 0 caso contrário.
+
+15. Escreva uma função que receba um número inteiro positivo e retorne seu fatorial.
+
+16. Escreva uma função que receba uma string e retorne o número de vogais contidas nela.
+
+17. Escreva uma subrotina que receba uma string e imprima seus caracteres em ordem inversa.
+
+18. Escreva uma função que receba uma string e retorne 1 se ela for um palíndromo, ou 0 caso contrário. Ignore espaços e diferenças entre maiúsculas e minúsculas.
+
+19. Escreva uma subrotina que receba uma string e substitua todos os espaços por hífens
+
+20. Escreva uma função que receba uma string e retorne a quantidade de palavras nela. Considere palavras separadas por espaços.
+
+21. Escreva uma função que receba uma string e retorne o número de vezes que uma letra específica aparece nela (receber também o caractere).
+
+22. Crie uma struct chamada Tabuleiro com uma matriz 3x3 de char. 
+    Escreva uma subrotina que imprima esse tabuleiro em formato de jogo da velha.
+    Escreva uma subrotina que retorne quem foi o ganhador.
+
+23. Escreva uma função que receba uma MatrizQuadrada e retorne a soma da diagonal secundária.
+   obs: crie um tipo para representar a matriz
+
+24. Crie uma struct chamada Sala com uma matriz 5x5 de inteiros representando lugares em uma sala de aula (0 = vazio, 1 = ocupado). 
+   Escreva uma subrotina para ler os dados da sala.
+   Escreva uma subrotina que conte e retorne o número total de lugares ocupados.
+   Escreva uma subrotina que receba uma Sala e marque todos os assentos da última fileira como ocupados.
+
+25. Crie uma struct chamada Temperaturas com uma matriz 7x4 de floats representando a temperatura de uma semana em 4 horários por dia. 
+    Escreva uma subrotina para ler todas as temperaturas.
+    Escreva uma função que calcule a média da temperatura da semana.
+    Escreva uma subrotina que imprima as temperaturas acima da média da Temperaturas.
+    Escreva uma função que, dado um dia (linha) e uma Temperaturas, retorne a média das temperaturas daquele dia.

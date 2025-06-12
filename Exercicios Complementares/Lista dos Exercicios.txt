@@ -1,0 +1,14 @@
+Lista de Exercícios – Programação em C
+
+1. Cadastro de Pessoa
+Crie um programa que permita cadastrar os dados de uma pessoa contendo: nome, idade e altura. Os dados devem ser armazenados em uma struct. O programa deve permitir o preenchimento e a exibição das informações dessa pessoa, utilizando recursos como função e passagem por referência.
+
+2. Cálculo de Operações
+Faça um programa que receba dois números inteiros e calcule: a soma, o produto e qual dos dois é o maior. Os resultados devem ser obtidos e retornados por meio de sub-rotinas, e os dados devem ser manipulados através de passagem por referência.
+
+3. Análise de Alunos
+Elabore um programa que cadastre os dados de três alunos, contendo nome e nota, armazenando-os em um vetor de structs. O programa deve calcular a média das notas e identificar o aluno com a maior nota. Utilize funções e passagem por referência onde for necessário.
+
+4. Troca de Coordenadas
+Desenvolva um programa que trabalhe com dois pontos no plano cartesiano, definidos por uma struct com coordenadas x e y. O programa deve trocar os valores dessas coordenadas entre os dois pontos, empregando o uso de função e passagem por referência.
+
